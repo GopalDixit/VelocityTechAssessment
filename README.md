@@ -1,4 +1,14 @@
+# My Project
+
+Here are some images of my project:
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://raw.githubusercontent.com/GopalDixit/VelocityTechAssessment/main/categoryScreen.jpg" alt="task" width="300"/>
+    <img src="https://raw.githubusercontent.com/GopalDixit/VelocityTechAssessment/main/welcomescreen.jpg" alt="task" width="300" marginLeft="15px"/>
+</div>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
 
